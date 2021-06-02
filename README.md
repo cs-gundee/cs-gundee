@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @cs-gundee
 - 👀 I’m interested in Python, Django and others.
+- 🌱 How to reach me >>> https://www.facebook.com/csgundee
 
 <!---
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning https://www.facebook.com/csgundee
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
